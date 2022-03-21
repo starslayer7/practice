@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    background-color: cadetblue;
+    height: auto;
+   
+}
+.links{
+   display: flex;
+    gap: 30px;
+
+}
+ul{
+    list-style: none;
+  
+}
+#logo{
+    height: 100px;
+    margin-right: 420px;
+}
