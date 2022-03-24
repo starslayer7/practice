@@ -137,3 +137,24 @@ p{
   from {opacity: .4}
   to {opacity: 1}
 }
+.art{
+    display: grid;
+  grid-template-columns: 100px   ;
+  grid-template-rows: 200px 200px 200px 200px ;
+}
+.gr{
+    height: 200px;
+    width: 300px;
+}
+.txt{
+    display: grid;
+    grid-template-columns: 100px   ;
+    grid-template-rows: 200px 200px 200px 200px ;
+    margin-left: 300px;
+}
+.container-grid{
+    display: flex;
+    flex-direction: row;
+    margin-left: 400px;
+    
+}
