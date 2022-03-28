@@ -1,6 +1,6 @@
 .nav{
     display: flex;
-    background-color: #964B00;
+    background-color: #FFFFFF;
     height: 80px;
 
    
@@ -15,7 +15,8 @@ ul{
   
 }
 #logo{
-    height: 100px;
+    height: 80px;
+    width: 90px;
     margin-right: 420px;
 }
 .little-bar{
@@ -29,9 +30,10 @@ ul{
 }
 .logo1{
     height: 50px;
+    width: 50px;
 }
 body{
-    background-color: #FFFFFF;
+    background-color: #964B00;
     margin: 0px;
 }
 .link-button{
